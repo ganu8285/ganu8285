@@ -15,7 +15,6 @@ Welcome to my GitHub! I'm a passionate second-year **BCA student** with a love f
 - **Python** (Data Analysis, ML Libraries like Pandas, NumPy, Scikit-learn)
 - **Machine Learning** (Supervised, Unsupervised learning, Model Deployment)
 - **Artificial Intelligence** (Neural Networks, Deep Learning)
-- **Web Development** (HTML, CSS, JavaScript - still learning!)
 
 ### 🔍 **Problem Solving & Algorithms**
 - Strong foundation in **problem-solving**
