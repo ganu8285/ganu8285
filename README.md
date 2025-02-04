@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate second-year **BCA student** with a love f
 
 ## 📬 Connect with Me!
 
-- [LinkedIn]linkedin.com/in/ganesh-gangarde-4a8bba2b1
+- [LinkedIn]https://www.linkedin.com/in/ganesh-gangarde-4a8bba2b1/
 - [Email]gangardeganesh60@gmail.com
 
 ---
