@@ -46,3 +46,8 @@ I thrive on learning new technologies and using my skills to make the world a be
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
