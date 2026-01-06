@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gangarde Ganesh
-**A passionate - Data Analyst || Prompting **
+**A passionate - Data Analyst || Prompting**
 
 Email Me 👉 ✉️ **gangardeganesh60@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
