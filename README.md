@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **gangardeganesh60@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** My Own Projects
-- 🌱 **I’m currently learning:** Data Analyst - Power Bi - SQL - Excel - Python
-- 👯 **I’m looking to collaborate on:** My Own Projects
-- 🤔 **I’m looking for help with:** Freelancing Projects
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Ganu
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🔭 I’m currently working on: **A Cricket Analytics Dashboard comparing Kohli, Rohit, and Dhoni using Power BI.**
+🌱 I’m currently learning: **Advanced DAX, AI Agents for productivity, and PostgreSQL.**
+👯 I’m looking to collaborate on: **Open-source Data Visualization projects or Python automation scripts.**
+🤔 I’m looking for help with: **Finding freelance Data Analysis opportunities and optimizing SQL queries.**
+💬 Ask me about: **Power BI Dashboards, Python for Finance (yfinance/pandas), and SQL.**
+📫 How to reach me: **[gangardeganesh60@gmail.com[ or [[Insert LinkedIn URL](https://www.linkedin.com/in/ganesh-gangarde-/)]**
+😄 Pronouns: **He/Him** (You can call me **Ganu**)
+⚡ Fun fact: **I once processed 30 years of Nifty 500 stock data to build a dashboard in just 12 days!**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ganu8285&theme=radical&no-frame=true&no-bg=false&margin-w=4)
