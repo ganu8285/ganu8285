@@ -28,7 +28,7 @@ aspiring **Data Analyst** passionate about uncovering insights and telling meani
 
 💬 Ask me about: **Power BI Dashboards, Python for Finance (yfinance/pandas), and SQL.**
 
-📫 How to reach me: **[gangardeganesh60@gmail.com[ or [[LinkedIn URL](https://www.linkedin.com/in/ganesh-gangarde-/)]**
+📫 How to reach me: **[gangardeganesh60@gmail.com](mailto:gangardeganesh60@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/ganesh-gangarde-/)**
 
 😄 Pronouns: **He/Him** (You can call me **Ganu**)
 
@@ -76,13 +76,14 @@ READY FOR COLLABORATION
 </div>
 
 ---
+
 ## 🏆 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=girishsabale&style=for-the-badge&color=ff003c)
-![Followers](https://img.shields.io/github/followers/girishsabale?style=for-the-badge&color=00fff7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/girishsabale?style=for-the-badge&color=ffd700&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=ganu8285&style=for-the-badge&color=ff003c)
+![Followers](https://img.shields.io/github/followers/ganu8285?style=for-the-badge&color=00fff7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/ganu8285?style=for-the-badge&color=ffd700&labelColor=0d1117)
 
 </div>
 
