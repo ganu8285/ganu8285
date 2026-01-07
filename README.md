@@ -1,52 +1,200 @@
-# 💫 Hi 👋, I'm Gangarde Ganesh
-**A passionate - Data Analyst || Prompting**
-
-Email Me 👉 ✉️ **gangardeganesh60@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-🔭 I’m currently working on: **A Cricket Analytics Dashboard comparing Kohli, Rohit, and Dhoni using Power BI.**
-
-🌱 I’m currently learning: **Advanced DAX, AI Agents for productivity, and PostgreSQL.**
-
-👯 I’m looking to collaborate on: **Open-source Data Visualization projects or Python automation scripts.**
-
-🤔 I’m looking for help with: **Finding freelance Data Analysis opportunities and optimizing SQL queries.**
-
-💬 Ask me about: **Power BI Dashboards, Python for Finance (yfinance/pandas), and SQL.**
-
-📫 How to reach me: **[gangardeganesh60@gmail.com[ or [[LinkedIn URL](https://www.linkedin.com/in/ganesh-gangarde-/)]**
-
-😄 Pronouns: **He/Him** (You can call me **Ganu**)
-
-⚡ Fun fact: **I once processed 30 years of Nifty 500 stock data to build a dashboard in just 12 days!**
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ganu8285&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-# 🔗 Social
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1324060516741681164) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ganesh-gangarde-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gangardeganesh60@gmail.com) 
+# 🔥 Girish Sabale
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Gear+up%2C+Samurai+-+grab+your+hottest+iron+.;Time+to+be+a+legend+." alt="Typing SVG" />
 </div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💀 ABOUT ME
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ganu8285&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ganu8285&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganu8285&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
+> ACCESSING NETRUNNER PROFILE...
+> DECRYPTING BIO DATA...
+> STATUS: CONNECTED
+```
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ganu8285&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**Data storyteller & ML enthusiast.**  
+Self-taught netrunner mastering datasets, dashboards, and automation scripts.  
+Relentless experimenter, merging data, code, and creativity into practical, impactful solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ganu8285&icon=0&color=13)](https://visitcount.itsvg.in)
 
+## 🛠 ACTIVE GIGS
 
+<details>
+<summary>🐍 <b>GIG: Python Protocol</b></summary>
 
+```
+Client: Data Syndicate
+Reward: +250 XP | +1 Street Cred (DataOps)
+Danger Level: ███░░
+Briefing: Deploy Python scripts to clean, slice, and weaponize raw data. 
+         Utilize pandas, numpy, matplotlib to turn chaos into precision insights.
+Status: 🔄 Always Upgrading
+```
+</details>
 
+<details>
+<summary>🗄️ <b>GIG: SQL Gridlock</b></summary>
+
+```
+Client: CyberNet Database
+Reward: +200 XP | +1 Street Cred (DataOps)
+Danger Level: ███░░
+Briefing: Dive into PostgreSQL & SQL queries, wrangling massive datasets. 
+         Optimize, join, and query for maximum intel extraction.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+<details>
+<summary>📊 <b>GIG: Dashboard Overdrive</b></summary>
+
+```
+Client: Viz Syndicate
+Reward: +250 XP | +1 Street Cred (BI)
+Danger Level: ███░░
+Briefing: Power BI & Tableau dashboards — color combos, layouts, interactive visuals. 
+         Translate numbers into actionable intel.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+<details>
+<summary>🧹 <b>GIG: Data Cleanser</b></summary>
+
+```
+Client: Python Underground
+Reward: +200 XP | +1 Street Cred
+Danger Level: ███░░
+Briefing: Data cleaning in Python using pandas & numpy. 
+         Scrub, standardize, and structure data for maximum clarity.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+<details>
+<summary>🕸️ <b>GIG: Web Scraper Ghost</b></summary>
+
+```
+Client: NetCrawler Corp
+Reward: +180 XP | +0.5 Street Cred
+Danger Level: ██░░░
+Briefing: Scrape the net with BeautifulSoup. Extract intel from websites and APIs, 
+         automate data gathering, and feed the dashboards.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+<details>
+<summary>🧠 <b>GIG: AI Prompt Ops</b></summary>
+
+```
+Client: GenAI Labs
+Reward: +200 XP | +1 Street Cred
+Danger Level: ███░░
+Briefing: Experiment with Generative AI, prompt engineering, and small automation tasks. 
+         Turn creative sparks into functional outputs.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+<details>
+<summary>🌐 <b>GIG: Web Stack Recon</b></summary>
+
+```
+Client: Frontline Ops
+Reward: +150 XP | +0.5 Street Cred
+Danger Level: ██░░░
+Briefing: HTML, CSS, JS & Flask — small web projects and interactive apps. 
+         Build interfaces for data visualization and AI experiments.
+Status: 🔄 Always Upgrading
+```
+</details>
+
+---
+
+## 💻 SKILL HUD
+
+```
+> SCANNING NEURAL PATHWAYS...
+> ANALYZING COMBAT PROFICIENCY...
+> STREET CRED: LEVEL 23 NETRUNNER
+```
+
+### 🔥 **LEGENDARY WEAPONS**
+![Python](https://img.shields.io/badge/Python-▓▓▓▓▓▓▓▓░░-FF003C?style=for-the-badge&logo=python&logoColor=white) `85%`  
+![SQL](https://img.shields.io/badge/SQL-▓▓▓▓▓▓▓░░░-00FFF7?style=for-the-badge&logo=postgresql&logoColor=white) `75%`  
+![Power BI](https://img.shields.io/badge/Power_BI-▓▓▓▓▓▓▓░░░-FFD700?style=for-the-badge&logo=powerbi&logoColor=white) `75%`  
+
+### ⚡ **RARE AUGMENTS**
+![Excel](https://img.shields.io/badge/Excel-▓▓▓▓▓▓░░░░-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) `70%`  
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-▓▓▓▓▓▓▓░░░-9F2B68?style=for-the-badge) `75%`  
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-▓▓▓▓▓▓░░░░-E4405F?style=for-the-badge) `70%`  
+
+### 🧪 **EXPERIMENTAL TECH**
+![AI Prompting](https://img.shields.io/badge/AI_Prompting-▓▓▓▓▓▓▓░░░-8A2BE2?style=for-the-badge) `75%`  
+![Flask](https://img.shields.io/badge/Flask-▓▓▓▓▓▓░░░░-000000?style=for-the-badge&logo=flask&logoColor=white) `70%`  
+![JavaScript](https://img.shields.io/badge/JavaScript-▓▓▓▓▓▓░░░░-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `70%`  
+
+---
+
+## 📊 NETRUNNER STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=girishsabale&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=00fff7&text_color=ffffff" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishsabale&theme=radical&hide_border=true&background=0d1117&stroke=ff003c&ring=ff003c&fire=00fff7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff003c&sideLabels=00fff7&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishsabale&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&text_color=ffffff" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=girishsabale&style=for-the-badge&color=ff003c)
+![Followers](https://img.shields.io/github/followers/girishsabale?style=for-the-badge&color=00fff7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/girishsabale?style=for-the-badge&color=ffd700&labelColor=0d1117)
+
+</div>
+
+```
+🎯 DATA SAMURAI - Master of Python & SQL warfare
+🔥 DASHBOARD ARCHITECT - Power BI visualization specialist  
+🧠 AI WHISPERER - Prompt engineering expert
+🕸️ NET CRAWLER - Web scraping automation master
+⚡ STREET CRED: Level 23 NetRunner
+```
+
+---
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girishsabale/)
+[![Email](https://img.shields.io/badge/Email-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=girishsabale0010@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-JOIN_CREW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NwMwuj6qzn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VIEW_WORK-FF003C?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=STAY%20WIRED%2C%20SAMURAI&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
+</div>
+
+```
+> CONNECTION ESTABLISHED
+> NEURAL LINK ACTIVE
+> AWAITING YOUR NEXT MOVE...
+```
