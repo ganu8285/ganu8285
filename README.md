@@ -9,21 +9,8 @@
 ---
 
 ## 🖤 ABOUT ME
-
-INITIALIZING BATCOMPUTER...
-SCANNING DATA STREAMS...
-STATUS: ONLINE
-
-yaml
-Copy code
-
-I am **Ganesh Gangarde**, an aspiring **Data Analyst** passionate about uncovering insights and telling meaningful stories with data.
-
-My analytics journey began during **BCA**, after attending a **Power BI seminar** that sparked my curiosity. What started as experimenting with dashboard design quickly evolved into analyzing datasets, identifying patterns, and communicating insights that drive decisions.
-
-I believe data, like the night, hides the truth — and my role is to reveal it.
-
----
+# 💫 Hi 👋, I'm Gangarde Ganesh  
+aspiring **Data Analyst** passionate about uncovering insights and telling meaningful stories with data.
 
 ## 🦇 ORIGIN STORY
 
@@ -33,30 +20,26 @@ I believe data, like the night, hides the truth — and my role is to reveal it.
 - ⚙️ Continuously learning analytics, AI, and modern data tools
 
 ---
+🌱 I’m currently learning: **Advanced DAX, AI Agents for productivity, and PostgreSQL.**
 
-## 🧰 SKILLS & TOOLS
+👯 I’m looking to collaborate on: **Open-source Data Visualization projects or Python automation scripts.**
 
-### 🟡 Data Visualization
-- Power BI  
-- Google Sheets  
+🤔 I’m looking for help with: **Finding freelance Data Analysis opportunities and optimizing SQL queries.**
 
-### 🟡 Data Handling & Querying
-- SQL  
+💬 Ask me about: **Power BI Dashboards, Python for Finance (yfinance/pandas), and SQL.**
 
-### 🟡 Programming & Analysis
-- Python (pandas, NumPy)
+📫 How to reach me: **[gangardeganesh60@gmail.com[ or [[LinkedIn URL](https://www.linkedin.com/in/ganesh-gangarde-/)]**
 
-### 🟡 Machine Learning
-- Data Cleaning  
-- Exploratory Data Analysis  
-- Predictive Modeling  
+😄 Pronouns: **He/Him** (You can call me **Ganu**)
 
-### 🟡 Generative AI
-- Prompt Engineering  
-- AI-driven solutions  
+⚡ Fun fact: **I once processed 30 years of Nifty 500 stock data to build a dashboard in just 12 days!**
 
 ---
 
+## 🧰 SKILLS & TOOLS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+
+---
 ## 🧠 WHAT DRIVES ME
 
 - Self-learner with a strong curiosity for data  
@@ -65,34 +48,54 @@ I believe data, like the night, hides the truth — and my role is to reveal it.
 - Interest in applying **analytics and AI** to real-world challenges  
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏍️ HOBBIES
-
-- Riding my bike  
-- Watching movies  
 
 ---
-
 ## 📡 LET’S CONNECT
 
 SIGNAL OPEN
 READY FOR COLLABORATION
 
-perl
-Copy code
-
 - 🤝 Open to collaborations  
 - 📚 Learning opportunities  
 - 💼 Professional connections in **Data Analytics & AI**
 
+
+---
 📩 **Feel free to DM me anytime.**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-CONTACT-black?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-gangarde-/)
+[![Email](https://img.shields.io/badge/Email-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gangardeganesh600@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-JOIN_CREW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](1324060516741681164)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VIEW_WORK-FF003C?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.com)
 
 </div>
+
+---
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=girishsabale&style=for-the-badge&color=ff003c)
+![Followers](https://img.shields.io/github/followers/girishsabale?style=for-the-badge&color=00fff7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/girishsabale?style=for-the-badge&color=ffd700&labelColor=0d1117)
+
+</div>
+
+---
+```
+🎯 DATA INSIGHTS - Master of Python & SQL warfare
+🔥 DASHBOARD ARCHITECT - Power BI visualization specialist  
+🧠 AI WHISPERER - Prompt engineering expert
+🕸️ NET CRAWLER - Web scraping automation master
+⚡ STREET CRED: Level 23 NetRunner
+```
+
+
 
 ---
 
@@ -100,4 +103,9 @@ Copy code
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=140&section=footer&text=I%20AM%20DATA.%20I%20AM%20THE%20NIGHT.&fontSize=26&fontColor=F5C518&animation=fadeIn" />
 
+</div>
+
+---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
