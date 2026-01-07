@@ -8,8 +8,8 @@
 
 ---
 
-## 🖤 ABOUT ME
-# 💫 Hi 👋, I'm Gangarde Ganesh  
+
+# 🔥Gangarde Ganesh  
 aspiring **Data Analyst** passionate about uncovering insights and telling meaningful stories with data.
 
 ## 🦇 ORIGIN STORY
