@@ -9,7 +9,7 @@
 ---
 
 
-# 🔥Gangarde Ganesh  
+# 🔥 Ganesh Gangarde  
 aspiring **Data Analyst** passionate about uncovering insights and telling meaningful stories with data.
 
 ## 🦇 ORIGIN STORY
