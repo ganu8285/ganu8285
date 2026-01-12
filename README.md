@@ -114,3 +114,6 @@ READY FOR COLLABORATION
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+# 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganu8285&theme=github-dark)
